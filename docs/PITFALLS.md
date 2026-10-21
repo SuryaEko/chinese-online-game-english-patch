@@ -55,3 +55,22 @@
 ## Process
 * Do not announce a task finished until the screen was actually checked; say what was not checked.
 * Mark the ~80 garbage/skip indices rather than inventing translations.
+
+## Finding what the game really displays (recording mode)
+Static extraction misses strings that are assembled at runtime (descriptions split by CDATA, chat history, numbers).
+Record them instead:
+1. `python tools/echo_srv.py` (echoes text back on 127.0.0.1:8799).
+2. In `AutoTranslatorConfig.ini`: `Endpoint=CustomTranslate`, `[Custom] Url=http://127.0.0.1:8799`,
+   `OutputFile=Translation/{Lang}/Text/_Observed.txt` (use forward slashes; do not edit with `sed` + backslashes).
+3. Play to the screens in question (drive the UI with SetCursorPos/mouse_event, screenshot).
+4. `python tools/obs.py` lists the recorded keys not in the cache. Translate them, or add regex rules.
+5. Restore `Endpoint=` empty and the original `OutputFile`; delete `_Observed.txt`; stop the echo server.
+
+## Chat / multi-line rich text
+The chat is ONE text (all lines joined by `
+`, each fragment wrapped in `<color=#..>`). Regex rules in `tools/regex.txt`:
+split off a leading newline, split first line / rest, split first `<color>` segment / rest, translate each segment
+alone (segments are plain-text keys derived by `build5.py`), keep the player-name segment untouched because it is not in
+the cache. Needs `MaxTextParserRecursion=100`. In regex lines write `=` inside patterns as `=`, and never write
+`
+` through a shell heredoc (it becomes a real newline and breaks the rule).

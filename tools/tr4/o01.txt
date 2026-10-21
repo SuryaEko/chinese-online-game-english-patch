@@ -1,0 +1,21 @@
+0|As long as you top up enough, you can get stronger!
+2|Playing Whack-a-Mole releases stress, and clearing it can <color=#00FFAC>calm your mood</color>
+3|Kittens are so cute, playing with one can <color=#00FFAC>lift your mood</color>.
+4|Basketball strengthens the body, with a high chance to <color=#CCFF83>boost whole-body immunity</color>, and winning is fun, with a certain chance to <color=#00FF30>lift your mood</color>.
+5|Park exercise equipment helps you work out, with a certain chance to <color=#CCFF83>boost whole-body immunity</color>.
+6|Fortune telling is quite mystical, but what if it really works? Besides, hearing nice words also makes you happy, with a certain chance to <color=#00FF30>lift your mood</color>!
+7|(Massage relaxes the body, with a certain chance to <color=#00FFAC>calm your mood</color>)
+8|(A foot bath relaxes the body, with a certain chance to <color=#00FFAC>calm your mood</color>)
+9|(TCM Tuina clears the meridians and promotes circulation, with a certain chance to <color=#CCFF83>boost whole-body immunity</color>, with a low chance to <color=#00FFAC>calm your mood</color>)
+10|(Wellness SPA is a high-end treatment, with a certain chance to <color=#CCFF83>boost whole-body immunity</color>, with a certain chance to <color=#00FFAC>calm your mood</color>)
+11|(BBQ has a high chance to <color=#00FFAC>lift your mood</color>, with a certain chance to <color=#FF091E>harm your health</color>)
+12|(Fried chicken has a certain chance to <color=#00FFAC>lift your mood</color>, with a low chance to <color=#FF091E>harm your health</color>)
+13|(Milk tea has a certain chance to <color=#00FFAC>lift your mood</color>, with a low chance to <color=#FF091E>harm your health</color>)
+14|The park greenway is good for running, which helps you work out, with a certain chance to <color=#CCFF83>boost whole-body immunity</color>.
+15|Fishing is a nice leisure sport, and if you catch a lot you can <color=#00FFAC>lift your mood</color>, and even earn a little money!
+21|Find the Dark Village Sheriff to complete the quest!
+42|Daily Limit: 0/5
+43|Daily Limit: 0/3
+44|Daily Limit: 0/10
+45|Daily Limit: 0/1
+46|Days Remaining: 12
