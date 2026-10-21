@@ -35,6 +35,9 @@
   whole string. Keep full strings from the scan (`strings_zh.json`) and diff them against the cache (`build4.py`,
   `tr3/`). Check this class after every extraction.
 * Some text assets are JSON, not XML (`BillingMode`, `HeroExp`, `TaskInfo`) and have no Chinese. Parse failures are OK.
+* Strings **longer than 4096 bytes** were skipped by the first scan (e.g. the 1.7 KB-of-Chinese Version Update Notes, 4.3 KB in UTF-8).
+  `tools/long.py` rescans for length-prefixed strings up to 300 KB (slow: ~5 min on 900 MB) and lists those not in the cache.
+  Other long hits here were only a censor word list and font character lists.
 * Garbage hits (random symbols, font files) appear in any raw scan. Drop them.
 * Chat/nickname "pools" are one long comma-separated string; the game splits it. Translate the phrases, not the pool.
 
