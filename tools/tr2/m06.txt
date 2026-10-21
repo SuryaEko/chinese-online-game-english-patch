@@ -1,0 +1,88 @@
+2299|Buy a 20 Yuan lottery ticket for 200 Yuan; if you win, the prize is 10x!
+2300|Buy a 30 Yuan lottery ticket for 300 Yuan; if you win, the prize is 10x!
+2301|Buy a 50 Yuan lottery ticket for 500 Yuan; if you win, the prize is 10x!
+2302|Buy a 5 Yuan lottery ticket for 500 Yuan; if you win, the prize is 100x!
+2303|Adventurer, to make it here you must have paid no small price, but rest assured, this is only the beginning!
+2304|You're finally here, I've waited a long time. Our game is very decent, you get VIP just for logging in.
+2305|Bro, happy Dragon Boat Festival! The Dragon Boat event pack is great value~ you must buy it!
+2306|Bro~ see it? The Classic of Mountains and Seas collab SSR Mountain Spirit Fire is out, so cool, I want to be his dog
+2307|A silver dollar Grandpa collected, Dad wasn't interested after Grandpa passed so gave it to me, good condition.
+2308|The boss lets you scratch a 5 Yuan lottery ticket for free; if you win, return 5 Yuan to the boss! The rest is yours!
+2309|Top-grade cigarettes, very expensive, usually only big bosses can afford them. Smoking is harmful to health!!
+2310|High-end liquor, unique flavor, lose yourself in it, one drink drowns sorrows, frequent drinking is harmful!!
+2311|Buy a 10 Yuan lottery ticket for 1000 Yuan; if you win, the prize is 100x!
+2312|Buy a 20 Yuan lottery ticket for 2000 Yuan; if you win, the prize is 100x!
+2313|Buy a 30 Yuan lottery ticket for 3000 Yuan; if you win, the prize is 100x!
+2314|Buy a 50 Yuan lottery ticket for 5000 Yuan; if you win, the prize is 100x!
+2315|Bro, watching the Russia World Cup? I love China's team, must buy a World Cup pack to celebrate!
+2316|Co-buy a 20 Yuan lottery ticket with the boss for just 10 Yuan, but winnings are split with the boss!
+2317|Co-buy a 30 Yuan lottery ticket with the boss for just 15 Yuan, but winnings are split with the boss!
+2318|Co-buy a 50 Yuan lottery ticket with the boss for just 25 Yuan, but winnings are split with the boss!
+2319|The owner of this bottle probably met with misfortune, otherwise such an exquisite item wouldn't have fallen into a monster's hands.
+2320|There's a certain chance to <color=#00FF39>boost whole-body immunity</color>.
+2321|There's a low chance to <color=#83FFA9>boost whole-body immunity</color>.
+2322|There's a low chance to <color=#CCFF83>boost whole-body immunity</color>.
+2323|The boss lets you scratch a 10 Yuan lottery ticket for free; if you win, return 10 Yuan to the boss! The rest is yours!
+2324|The boss lets you scratch a 20 Yuan lottery ticket for free; if you win, return 20 Yuan to the boss! The rest is yours!
+2325|The boss lets you scratch a 30 Yuan lottery ticket for free; if you win, return 30 Yuan to the boss! The rest is yours!
+2326|The boss lets you scratch a 50 Yuan lottery ticket for free; if you win, return 50 Yuan to the boss! The rest is yours!
+2327|A 93 sq m apartment in this city bought outright for 480,000 two years ago with all my savings and my parents' help.
+2328|At the internet cafe you meet that middle school classmate again, he's still playing Domestic Online Game! Seems even better than before!
+2329|Dad calls to ask if you want to go to the countryside together for Qingming tomb sweeping? It's far and may take a lot of time!
+2330|Made from traditional Chinese medicine, soothes the throat and lungs, good for the respiratory system. The package says: Health supplements cannot replace medicine!
+2331|A puffed, deep-fried potato snack, crispy and delicious, cheap and good, but high in calories with many additives!!
+2332|A Qing Dynasty antique inkstone Grandpa collected, Dad wasn't interested after Grandpa passed so gave it to me, heard it's very valuable.
+2333|Just about to leave work when a boss stops you, says he has an urgent document for me to write, very urgent, asks me to work overtime.
+2334|Premium milk uses imported New Zealand dairy, a healthy dairy drink rich in protein, calcium and vitamins!!
+2335|There's a certain chance to <color=#00FF39>restore urinary health (takes effect next day)</color>.
+2336|There's a certain chance to <color=#00FF39>restore liver health (takes effect next day)</color>.
+2337|There's a certain chance to <color=#00FF39>restore lung health (takes effect next day)</color>.
+2338|There's a certain chance to <color=#00FF39>restore stomach health (takes effect next day)</color>.
+2339|There's a certain chance to <color=#00FF39>restore brain health (takes effect next day)</color>.
+2340|There's a high chance to <color=#00FF39>restore urinary health (takes effect next day)</color>.
+2341|There's a high chance to <color=#00FF39>restore liver health (takes effect next day)</color>.
+2342|There's a high chance to <color=#00FF39>restore lung health (takes effect next day)</color>.
+2343|There's a high chance to <color=#00FF39>restore stomach health (takes effect next day)</color>.
+2344|There's a high chance to <color=#00FF39>restore brain health (takes effect next day)</color>.
+2345|A Ming Dynasty ceramic bowl Grandpa collected, Dad wasn't interested after Grandpa passed so gave it to me, not sure if it's real.
+2346|Made from traditional Chinese medicine, soothes the liver and strengthens the spleen, good for liver and spleen. The package says: Health supplements cannot replace medicine!
+2347|Buy what you like when you see it. Sometimes money isn't really spent, it just stays with you in another form.
+2348|<color=#FF5DF5>Prescription drug for urinary diseases (takes effect next day)</color>.
+2349|<color=#FF5DF5>Prescription drug for liver diseases (takes effect next day)</color>.
+2350|<color=#FF5DF5>Prescription drug for lung diseases (takes effect next day)</color>.
+2351|<color=#FF5DF5>Prescription drug for stomach diseases (takes effect next day)</color>.
+2352|<color=#FF5DF5>Prescription drug for brain diseases (takes effect next day)</color>.
+2353|Food from a small workshop, savory and addictive, cheap, but basically all additives, a showcase of "tech and hard stuff"!
+2355|Made from traditional Chinese medicine, strengthens essence and kidneys, nourishes the root, good for the urinary system. The package says: Health supplements cannot replace medicine!
+2356|You're here~ congratulations on entering our game! In just 1 minute you'll fall in love with this game like me. Go talk to the King's Hand
+2357|A brand-new medal, the shrink wrap not even opened. The supreme honor of the Clumsy Hands Alliance, but oddly, those who earn it never wear it.
+2358|Extracted from deep-sea fish, rich in unsaturated fatty acids, good for the cardiovascular system. The package says: Health supplements cannot replace medicine!
+2359|Arriving at the internet cafe you find many people; turns out your Domestic Online Game is holding an offline event here, join to get in-game item rewards!
+2362|Made from traditional Chinese and Western medicine, combined, soothes the throat and lungs, good for the respiratory system. The package says: Health supplements cannot replace medicine!
+2365|Extracted from Atlantic deep-sea sharks, rich in unsaturated fatty acids, good for the cardiovascular system. The package says: Health supplements cannot replace medicine!
+2367|Made from natural herbs, warms the middle and harmonizes the stomach, protects the gastric lining and boosts gastric motility, good for the digestive tract. The package says: Health supplements cannot replace medicine!
+2368|The badge shows "2 axes glittering gold" on the front and the words "Skill is what counts, who else" on the back, said to be a token the Axe Gang use to recognize each other.
+2369|Tibetan secret medicine, made from precious Chinese medicine, strengthens essence and kidneys, nourishes the root, good for the urinary system. The package says: Health supplements cannot replace medicine!
+2371|Rich in digestive probiotics, warms the middle and harmonizes the stomach, protects the gastric lining and boosts gastric motility, good for the digestive tract. The package says: Health supplements cannot replace medicine!
+2383|At the internet cafe you meet a familiar face, turns out to be a middle school classmate. Seeing his screen you say in shock: Damn~ you play Domestic Online Game too!
+2391|Imported from Australia, made from natural Australian milk thistle, soothes the liver and strengthens the spleen, good for liver and spleen, a must for night owls. The package says: Health supplements cannot replace medicine!
+2395|On the street you find many people queuing; turns out your Domestic Online Game is running a collab with a milk tea shop, buy one milk tea to get a gift pack in the game.
+2399|On the street you find many people queuing; turns out your Domestic Online Game is running a collab with McBurger, buy one chicken meal to get a gift pack in the game.
+2401|Can <color=#00FF30>lift your mood</color>, with a certain chance to <color=#FF091E>harm your health</color>.
+2402|A somewhat old badge, engraved "Patience" on the back and "Reap a reward" on the front. Legend says its owner was a warrior passionate about logging, who loved a special dessert called mango ice.
+2403|There's a certain chance to <color=#00FF30>lift your mood</color>, with a certain chance to <color=#FF091E>harm your health</color>.
+2404|There's a certain chance to <color=#00FF30>lift your mood</color>, with a high chance to <color=#FF091E>harm your health</color>.
+2405|There's a certain chance to <color=#00FFAC>calm your mood</color>, with a certain chance to <color=#FF091E>harm your health</color>.
+2406|There's a certain chance to <color=#00FFAC>calm your mood</color>, with a high chance to <color=#FF091E>harm your health</color>.
+2407|There's a certain chance to <color=#83DDFF>relieve fatigue</color>, with a low chance to <color=#FF091E>harm your health</color>.
+2408|There's a certain chance to <color=#83DDFF>relieve fatigue</color>, with a high chance to <color=#FF091E>harm your health</color>.
+2409|There's a low chance to <color=#00FFAC>calm your mood</color>, with a certain chance to <color=#FF091E>harm your health</color>.
+2410|There's a low chance to <color=#00FFAC>calm your mood</color>, with a low chance to <color=#FF091E>harm your health</color>.
+2411|There's a low chance to <color=#00FFAC>calm your mood</color>, with a high chance to <color=#FF091E>harm your health</color>.
+2412|There's a high chance to <color=#00FFAC>calm your mood</color>, with a certain chance to <color=#FF091E>harm your health</color>.
+2413|There's a high chance to <color=#83DDFF>relieve fatigue</color>, with a certain chance to <color=#FF091E>harm your health</color>.
+2414|An extremely expensive medal shining with a king's glory, an honor that only kings forged by Chuhe Iron Fist deserve. It is said its holder is not only a big spender but also blessed with great luck.
+2418|It shines with unmatched radiance in the endless online game world. It originates from a legendary figure's name, symbolizing the union of courage and wisdom. The holder conquers every challenge with extraordinary combat skill and fearless spirit, and dominates every battle. This is the glory of a true hero, showing the unique brilliance of endless adventure.
+2421|A medal shaped like a pigeon, engraved on the back "Never late for work or school again" and on the front "Harmony brings wealth". Legend says its owner can control time and travel through space; though nobody claims to have this ability, holders always get drinks in the restroom for no reason, perhaps also this medal's special power.
+2423|Many years later, Ergouzi fought Chuanqi again and finally became the Imperial City Lord he dreamed of, leaving no regrets in his Chuanqi career, then vanished into the crowd, leaving only his towering figure in the game, earning the respect of countless later players. To commemorate this legendary player, the developers made an exclusive medal for him, so Ergouzi stays in the game forever!
+2431|This medal belongs to the tireless goblin, curious and eager about legendary treasures. No matter how perilous the road or how many unknown challenges lie ahead, they set out on treasure hunts without hesitation. This greedy goblin is both powerful and greedy; sometimes its greed costs it reason and judgment, but this greed also won it countless fans! Note: It was originally an ordinary badge, but after sitting in the goblin's bag for a long time it slowly gained the Greed attribute.

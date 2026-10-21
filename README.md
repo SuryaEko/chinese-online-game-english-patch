@@ -2,7 +2,7 @@
 
 An unofficial English translation for the Steam game **Chinese-Style Online Game** (MMOSimulator, build **V1.43**, by 648GameStudio).
 
-* **5,084 in-game texts** translated ahead of time (menus, dialogue, quests, items, error codes, announcements). No online translator is used, so nothing shows up "pending" or flickers back to Chinese.
+* **7,800 in-game texts** translated ahead of time (menus, dialogue, quests, items, error codes, announcements). No online translator is used, so nothing shows up "pending" or flickers back to Chinese.
 * **UI text is shrunk to 60%** so English fits the Chinese-sized buttons.
 * **61 images with Chinese text** replaced: title logo, shop signs, red-packet envelopes, app icons, one-character badges, "N倍" multipliers and more.
 
@@ -34,6 +34,7 @@ Steam → Properties → Installed Files → *Verify integrity* also restores th
 * Some signs were skipped because the automatic edit looked bad (building exit sign, park gate).
 * A Steam update may overwrite the data files and bring back the Chinese images. Run `install.ps1` again; the text translation itself is not affected.
 * The texture patch is tied to build V1.43 and refuses to run if the file sizes differ.
+* Player nicknames (random name pools) and a few numbered texts may still appear in Chinese. Common patterns such as "第N天" (Day N) are covered by regex rules; send a screenshot of anything else.
 * Some strings are quick or literal translations of memes and slang; fixes via pull request are welcome.
 
 ## Files
@@ -60,4 +61,4 @@ Scripts and translation text: MIT (see `LICENSE`).
 
 ## Ringkasan (Bahasa Indonesia)
 
-Patch bahasa Inggris tidak resmi untuk game "Chinese-Style Online Game" (MMOSimulator) versi V1.43. Jalankan `install.ps1` dengan `-GamePath` ke folder game; skrip memasang BepInEx + XUnity.AutoTranslator, 5.084 terjemahan teks, ukuran font yang diperkecil, dan 61 gambar berbahasa Inggris (butuh Python + Pillow, atau pakai `-SkipTextures`). Video bersubtitle Mandarin belum diterjemahkan. Untuk mengembalikan gambar asli: `python _texture_backup\restore_textures.py` atau *Verify integrity* di Steam.
+Patch bahasa Inggris tidak resmi untuk game "Chinese-Style Online Game" (MMOSimulator) versi V1.43. Jalankan `install.ps1` dengan `-GamePath` ke folder game; skrip memasang BepInEx + XUnity.AutoTranslator, 7.800 terjemahan teks, ukuran font yang diperkecil, dan 61 gambar berbahasa Inggris (butuh Python + Pillow, atau pakai `-SkipTextures`). Video bersubtitle Mandarin belum diterjemahkan. Untuk mengembalikan gambar asli: `python _texture_backup\restore_textures.py` atau *Verify integrity* di Steam.

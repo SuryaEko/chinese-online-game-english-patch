@@ -1,0 +1,650 @@
+0|No
+1|Go
+2|Good
+3|Help
+4|Take
+5|Get lost
+6|Scram
+7|Rely
+8|Can't
+9|Not going
+10|Won't answer
+11|Not coming
+12|Cloud Pregnancy
+13|Hospitalize
+14|Forget it
+15|Discharge
+16|Handle
+17|Impressive
+18|Join
+19|Crooked Again
+20|Famous Liquor
+21|Haha
+22|What?
+23|Hehe
+24|Heh heh
+25|Native
+26|Trash
+27|Boss
+28|Dairy Cow
+29|Fine
+30|Sure
+31|OK
+32|Clown
+33|Giant Elephant
+34|Meeting
+35|Open the door
+36|Open!
+37|Weakling
+38|Run
+39|My C
+40|I won't
+41|Damn
+42|Answer Call
+43|Do it!
+44|Take Apprentice
+45|Faint Mountain
+46|Come on!
+47|All in
+48|Betel Nut
+49|Get lost
+50|Kreeli
+51|Krell
+52|Krebird
+53|Water God
+54|Get lost
+55|Ling Kr
+56|Damn!
+57|Scram
+58|Awesome
+59|Die of illness
+60|Shenbao
+61|Lai Kun
+62|Go!
+63|Gold Bar
+64|Zirconium Kun
+65|Dragon Spine
+66|0 Failed
+67|No loss!
+68|Not joining
+69|Ignore her
+70|Ignore him
+71|Not bad~
+72|Not bad!
+73|How embarrassing
+74|Lost out!
+75|Cloud Player
+76|You can't
+77|You're crazy
+78|You lost
+79|Stomach Pills
+80|Passable!
+81|Don't go crooked!
+82|Don't bother me
+83|Don't run!
+84|Lagged a bit
+85|Go to the hospital
+86|Go to the meeting
+87|Go to hell
+88|Again!
+89|Won again
+90|Start!
+91|Haha~
+92|Hahaha
+93|Go on
+94|Trash!
+95|Trash, get lost
+96|Trash!
+97|Archangel
+98|So laggy
+99|So laggy
+100|Too easy
+101|Slipped up
+102|Doomed
+103|Minor slip
+104|Piece of cake
+105|With just you?
+106|Help him
+107|What the heck?
+108|Let's go!
+109|Weakling~
+110|Unity
+111|Me haha
+112|I refuse
+113|Damn!
+114|I'm here
+115|I'm fine
+116|I won
+117|I lost
+118|Say Hello
+119|Liver Tablets
+120|Soul-Summoning Lamp
+121|Excavator
+122|Done!
+123|What the heck?
+124|Come on!
+125|Tree Spirit
+126|Normal!
+127|Krenia
+128|Krela
+129|Krezilla
+130|Kroe
+131|Kreis
+132|No suspense
+133|Boring
+134|No problem
+135|Hai Bodong
+136|Lung Moistening Tablets
+137|Get lost
+138|Get lost~~
+139|Get lost get lost
+140|Get lost, jerk
+141|Awesome!
+142|Awesome!
+143|Dog Food A
+144|Dog Food B
+145|Dog Food C
+146|Dog Food D
+147|Dog Food E
+148|Dog Food F
+149|Dog Food G
+150|Dog Food H
+151|Dog Food I
+152|Dog Food J
+153|Ship in a Bottle
+154|Madman
+155|Tomb Raider
+156|Got it
+157|Psycho
+158|First!
+159|Easy!
+160|Scram, boss
+161|Silver Dollar
+162|Let's go!
+163|Not bad
+164|Not bad!
+165|Gold Ring
+166|Gold Bracelet
+167|Gold Necklace
+168|Giraffe
+169|Counting on you
+170|Iron-Eating Beast
+171|Pile of Gold Coins
+172|Chest of Gold Coins
+173|Bag of Gold Coins
+174|Home Repair
+175|Next time for sure
+176|Come again next time
+177|Meeting after work
+178|Not coming
+179|Unless something unexpected happens
+180|Not interested
+181|No way!
+182|Not convinced?
+183|Not coming not coming
+184|Not resigned
+185|Can't do it, right?
+186|Midlife Unemployment
+187|Mid-Range Liquor
+188|Mid-Range Cigarettes
+189|Why did I lose
+190|Why did I lose
+191|Ghost Passerby
+192|Chat for a while
+193|Relative Calls
+194|What the heck?
+195|Snack Food
+196|Guild Leader is great
+197|Stamina Potion
+198|You're not that good
+199|Go to hell
+200|Who are you?
+201|You're so trash
+202|You're useless
+203|You're so bad
+204|Hello?
+205|You're done~
+206|What are you doing?
+207|What are you up to
+208|Health Drink
+209|Borrowed Online Loan
+210|Run into Relatives
+211|Run into a Friend
+212|Run into the Boss
+213|Wellness Betel Nut
+214|Orc War Banner
+215|Once more
+216|Wait and see
+217|Frost War Bear
+218|Impulse Buying
+219|Punctuality Medal
+220|Phoenix Wings
+221|Just started
+222|Don't go crooked!!
+223|Splendid Wings
+224|Private Talk
+225|Damn~ original
+226|Go to HR
+227|Go to the meeting room
+228|Go to the office
+229|Go handle paperwork
+230|Greet the Lord
+231|Ruined again!
+232|A draw again
+233|Prepare to die!
+234|Antique Inkstone
+235|Cola Soda
+236|Colleague Dinner
+237|What is she saying
+238|Haha~~
+239|Mall Purchase
+240|Um, I'll come
+241|Totem Wings
+242|Holy Light Wings
+243|Trash, scram
+244|Trash ahh
+245|Trash Guild
+246|Summer Wings
+247|Summer Medal
+248|Boss Essential
+249|Great-Horned Reindeer
+250|So laggy ahh
+251|So awesome
+252|Too easy!
+253|OK, I'll come
+254|Good Deeds
+255|So sleepy!
+256|Last-Ditch Gamble
+257|City Guard
+258|Perfect Attributes
+259|Scales of Judgment
+260|Support Calls
+261|Yinzi Medal
+262|Frost Wings
+263|Noble Wings
+264|Small success!
+265|That's it?
+266|Let's leave it at that
+267|Mountain Spirit Fire
+268|Handsome Pickup Truck
+269|Routine Move
+270|Budget Milk
+271|Budget Liquor
+272|Budget Cigarettes
+273|Plains Cheetah
+274|Lucky Key
+275|Ghost Cheetah
+276|Solemn Wings
+277|Forgetting Sleep and Food
+278|Let's go~!
+279|Pop the champagne
+280|Lowest of the Low
+281|Wings of the Strong
+282|What's wrong?
+283|What now?
+284|How did I lose
+285|How did I lose
+286|Congrats, Guild Leader
+287|Congrats everyone
+288|Demon Eye
+289|Evil Dragon Wings
+290|Unexpected, unexpected
+291|As expected
+292|Succeed!
+293|What the heck!
+294|We're awesome
+295|We lost
+296|I'll go look
+297|I'm so laggy
+298|I'm so strong
+299|Let me think
+300|I have a guild
+301|I'm a bit laggy
+302|I'm coming
+303|Damn~!
+304|Scrub at 5
+305|Clumsy Hands Medal
+306|Sweep Token
+307|Boycott the Game
+308|Queue to Join
+309|Energy Drink
+310|Messing around?
+311|Delivery Medal
+312|Traveling Merchant
+313|Morning Meeting
+314|Dizzy~~~
+315|Shadow Warhorse
+316|Dark Red Wings
+317|Book of Darkness
+318|What is it??
+319|Friend Invites to Dinner
+320|Mechanical Wings
+321|Come hit me
+322|Dream Wings
+323|Brown Stallion
+324|Forest Giant Bear
+325|Forest Moose
+326|Orange Soda
+327|Lucky King
+328|Correct choice
+329|Savage Wings
+330|Kronia
+331|Pay-to-Win Feather
+332|Crystal Wings
+333|No pressure!
+334|Boring~
+335|No difficulty
+336|No difficulty!
+337|Streaming Light Wings
+338|Deep-Sea Fish Oil
+339|Game Chat
+340|Flame Wings
+341|Flame Motorcycle
+342|Flame Spider
+343|Fire God Zhurong
+344|Fire Feather Wings
+345|Dazzling Wings
+346|Cool Wings
+347|Cool Sedan
+348|Blazing Elk
+349|Damn!!!
+350|Father Calls
+351|Awesome Boss
+352|Dog Food No. 1
+353|Dog Food No. 2
+354|Dog Food No. 3
+355|Dog Food No. 4
+356|Dog Food No. 5
+357|Dog Food No. 6
+358|Dog Food No. 7
+359|Dog Food No. 8
+360|Dog Food No. 9
+361|Meeting in a Narrow Lane
+362|Crimson Wings
+363|King's Wings
+364|Messing with me?
+365|Amber Wings
+366|Swiss Watch
+367|White-Robed Mage
+368|Imperial City Rich Lady
+369|Imperial City Thug
+370|Imperial City Pauper
+371|Imperial City Blacksmith
+372|I'll kill you
+373|Really trash
+374|Got it!
+375|Mysterious Call
+376|Mysterious Elder
+377|High-Tech Food
+378|Rune War Bear
+379|Rune Cheetah
+380|Wait a bit
+381|Will buy soon
+382|Will go soon
+383|Urgent Quest
+384|Red Dragon
+385|Finally got it
+386|Finally won
+387|Get them!
+388|Charge!
+389|Scram, boss~
+390|Brilliant Wings
+391|Crown of Sin
+392|Envious?
+393|Jade Warhorse
+394|Jade Bracelet
+395|Soaring Wings
+396|Think about it
+397|Let me think
+398|Looking pale
+399|Worship the Boss
+400|Puffed Snacks
+401|Indekrs
+402|Inexplicable
+403|Don't touch me
+404|Practice more if you're bad
+405|Stranded First Mate
+406|Stranded Sailor
+407|Stranded Helmsman
+408|Void Wings
+409|Void Dragon
+410|Can you or not?
+411|Wishing Spirit
+412|Gilded Wings
+413|Greed Medal
+414|Made a killing!
+415|Made a fortune!
+416|Lost Pirate
+417|Nowhere to Turn
+418|Supercar
+419|Lost, so what
+420|Lucky Streak
+421|Not bad!
+422|Still washing?
+423|Passable~
+424|Breaking the Law
+425|Pursuit of Perfection
+426|Run into a Classmate
+427|All small money
+428|Golden Wall Tile
+429|Diamond Women's Ring
+430|Diamond Dragon
+431|Diamond Men's Ring
+432|Missed the Destiny
+433|Aminos
+434|Limited Edition Sneakers
+435|Snowfield Merchant
+436|Snowfield Warrior
+437|Snowfield War God
+438|Lei Bi Soda
+439|Top-Grade Cigarettes
+440|Let it be
+441|Hurricane Wings
+442|First Top-up Wings
+443|First Top-up Gift Pack
+444|Highland Snow Wolf
+445|High-End Liquor
+446|High-End Cigarettes
+447|Premium Milk
+448|Premium Shenbao
+449|Demon Flame Wings
+450|Demon Claw Wings
+451|Demon Energy Wings
+452|Power of the Chicken God
+453|Golden Cheetah
+454|A bunch of trash!
+455|Success in one go!
+456|Go say hello
+457|Not a match!
+458|Not so awesome now?
+459|Don't go crooked!
+460|Mid-Autumn Medal
+461|Mid-Autumn Lucky Bag
+462|Excellent Materials
+463|Guild Leader is awesome
+464|Guild Leader is bad
+465|Mythic Gem Bag
+466|Mythic Rune Pack
+467|Mythic Equipment Box
+468|Top damage!
+469|Hospitalized for Surgery
+470|Buddha bless!
+471|You're not the Guild Leader
+472|What are you
+473|Who do you think you are
+474|What are you bragging about
+475|Are you joking?
+476|You're so trash
+477|You're brave, huh?
+478|You're not cheating, are you
+479|Are you blind?
+480|Can you or not?
+481|You don't even have a guild
+482|Pray don't go crooked!
+483|Pity timer...
+484|Pretend not to see
+485|Run into the Old Boss
+486|Wait a bit more
+487|Military Helicopter
+488|Iced Tea Drink
+489|Come out for a duel
+490|Tch, really trash
+491|Just lagged
+492|Don't go crooked!
+493|Labor Day Medal
+494|Labor Day Lucky Bag
+495|Whatever you do, don't go crooked!
+496|Reach Level 10
+497|Reach Level 20
+498|Reach Level 30
+499|Reach Level 40
+500|Reach Level 50
+501|Reach Level 60
+502|Reach Level 70
+503|Reach Level 80
+504|Reach Level 90
+505|Single pull miracle
+506|Damn, awesome
+507|Damn! Boss
+508|Damn pity again
+509|Raving Man
+510|Antique Ceramic Bowl
+511|Epic Rune Pack
+512|Epic Materials
+513|Epic Equipment Box
+514|Anniversary Medal
+515|Anniversary Lucky Bag
+516|Hahahahaha
+517|Haha! Not bad
+518|Oh no, didn't win
+519|Um, I'm willing
+520|Hehe~~~
+521|Anyone there?
+522|Trash, get lost~
+523|Lord, don't joke
+524|Lord, you're too kind
+525|Fallen Angel Wings
+526|Doing this every day
+527|Too easy!
+528|Slip~ slip
+529|Headache Prescription Drug
+530|Strange Woman
+531|Such cool wings
+532|So slow~~
+533|Grave Keeper's Ghost
+534|Small money, small money!
+535|Let's leave it at that!
+536|Tool Guy No. 1
+537|Tool Guy No. 2
+538|Tool Guy No. 3
+539|Tool Guy No. 4
+540|Tool Guy No. 5
+541|Tool Guy No. 6
+542|Tool Guy No. 7
+543|Tool Guy No. 8
+544|Tool Guy No. 9
+545|Fight~~~
+546|Must continue!
+547|Why a draw
+548|Why so laggy
+549|Congrats congrats
+550|Unexpected result
+551|I don't eat beef
+552|I want to siege too
+553|We're going to get rich
+554|I just lagged
+555|I'll go try pulling
+556|I'm not short on money
+557|Me hahaha
+558|I'm so strong~
+559|I'm so strong!
+560|Let me think first
+561|I want to be Guild Leader
+562|I have a guild
+563|Where's my money?
+564|I know!
+565|Let me think about it
+566|Let me think it over
+567|I want to reach King
+568|I have too much money
+569|Scrub at 5, scram
+570|Strategic retreat
+571|Can't beat them!
+572|Find an excuse to decline
+573|Expedition Member
+574|Expedition Captain
+575|Axe Gang Badge
+576|Useless Materials
+577|Can't come for now
+578|Dark Village Villager
+579|The future is up to you
+580|Come~ let's go!
+581|Come duel me!
+582|Come on, haha
+583|Come on come on~
+584|Come on come on!
+585|Come on haha
+586|Getting the feel!
+587|Let's give it a try
+588|Normal situation!
+589|No pressure at all!
+590|Kristina
+591|Desert Guardian
+592|Greasy Senior Sister
+593|Urinary Prescription Drug
+594|Island Adventurer
+595|Qingming Medal
+596|Qingming Lucky Bag
+597|The game is such a rip-off
+598|Game Guide
+599|Great! Awesome!
+600|Awesome Guild Leader
+601|Awesome!!!
+602|Awesome~~~
+603|Awesome!!!
+604|Dog Food No. 10
+605|Dog Food No. 11
+606|And your guild?
+607|Imperial City Gladiator
+608|Watch me kill you
+609|A Real Boss
+610|Rare Materials
+611|Dragon Boat Lucky Bag
+612|Let me think a moment
+613|Developers bless!
+614|Fine Gem Bag
+615|Finally passed!
+616|Network lagged a bit
+617|Wings, so cool
+618|Jesus bless!
+619|Hepatobiliary Prescription Drug
+620|Gastrointestinal Prescription Drug
+621|Lung Prescription Drug
+622|Equipment Recycler
+623|If I hadn't lagged
+624|Let me think
+625|Deluxe Gem Bag
+626|Panther Head Zero Top-up
+627|Account got banned
+628|Easily first!
+629|Easily solved!
+630|Lost~~~
+631|Lost so badly
+632|Pretty lucky
+633|Still thanks to me
+634|Alright!!
+635|Remember me?
+636|Failed even this?
+637|Imported Stomach Pills
+638|Imported Liver Tablets
+639|Imported Lung Moistening Tablets
+640|All slackers!
+641|Ah~ Aminos
+642|Aminos~
+643|Parcel Station Manager
+644|McBurger Collab
+645|666~ awesome
+646|R-Grade Soul Fragment
+647|Go chat for a while
+648|Next time I'll be stronger
+649|Don't understand what you're saying
