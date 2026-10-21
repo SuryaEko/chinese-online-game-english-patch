@@ -47,6 +47,10 @@ Steam → Properties → Installed Files → *Verify integrity* also restores th
 | `textures/` | edited PNGs named by Unity path ID, `manifest.json`, patch and restore scripts |
 | `tools/` | scripts used to make the images; development only, paths are hard-coded to the author's machine |
 
+## Documentation
+
+How this patch was built, commands, pitfalls and status are in [`docs/`](docs/README.md) - start with `docs/PLAYBOOK.md` if you want to do the same for another Unity game.
+
 ## Credits
 
 [BepInEx](https://github.com/BepInEx/BepInEx), [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator), [AssetStudioMod](https://github.com/aelurum/AssetStudio) (used to extract textures), [Pillow](https://python-pillow.org/). Translation and image edits made with Claude (Anthropic).
