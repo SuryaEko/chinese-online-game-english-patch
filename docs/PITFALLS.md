@@ -30,6 +30,10 @@
 ## Extraction
 * Length-prefix scan of `.assets` with a 4 KB limit misses large XML tables. Always export TextAssets.
 * `<![CDATA[<color=..>]]>` splits element text; the game sees the joined string (with tags). Use an XML parser.
+* **Scene/prefab strings with several tags** (e.g. `<size=35>注意:</size>游戏支持<size=35>自动存档</size>...`) live in `resources.assets`
+  as ordinary strings. A heuristic that treated any string with >3 tags as XML and split it into fragments lost the
+  whole string. Keep full strings from the scan (`strings_zh.json`) and diff them against the cache (`build4.py`,
+  `tr3/`). Check this class after every extraction.
 * Some text assets are JSON, not XML (`BillingMode`, `HeroExp`, `TaskInfo`) and have no Chinese. Parse failures are OK.
 * Garbage hits (random symbols, font files) appear in any raw scan. Drop them.
 * Chat/nickname "pools" are one long comma-separated string; the game splits it. Translate the phrases, not the pool.

@@ -1,0 +1,62 @@
+37|Bing Dai Dai
+68|<color=#FFE200>[System]</color><color=#FDD07F><
+69|You rank <size=50><color=#FFE200>6500</color></size>
+70|</color><color=#FFE200>, obtained</color><color=#00FF47>VIP
+71|</color><color=#FFE200>created guild</color><color=#FDD07F><
+72|</color><color=#FFE200>upgraded to</color><color=#00FF47>VIP
+73|</color><color=#FFE200>obtained from Ancient Treasure</color><color=#F37500>
+74|</color><color=#FFE200>obtained from Lucky Chest</color><color=#F37500>
+75|</color><color=#FFE200>After tireless effort, finally</color><color=#F37500>
+77|</color><color=#FFE200>After untold hardship clearing the Rune Dungeon, obtained</color><color=#F37500>
+78|></color><color=#FFE200>guild occupied the Imperial City, Guild Leader</color><color=#00FFE3>
+80|</color><color=#FFE200>After untold hardship finally cleared the Shadow Realm</color><color=#ECD7A1>
+81|<color=#FFC375>Complete 40 main quests</color>  <color=#FFFFFF>Reward:</color>1 Yuan
+82|<color=#FFC375>Complete 20 main quests</color> <color=#FFFFFF>Reward:</color> 90 Yuan
+83|<color=#FFC375>Complete 30 main quests</color>  <color=#FFFFFF>Reward:</color> 9 Yuan
+84|<color=#FFC375>Complete 1 main quest</color>  <color=#FFFFFF>Reward:</color> 100 Yuan
+85|<color=#FFC375>Complete 5 main quests</color>  <color=#FFFFFF>Reward:</color> 100 Yuan
+86|<color=#FFE200>[System]</color><color=#FF0027>Arrange your time wisely and enjoy a healthy life.</color>
+87|<color=#FFE200>[System]</color><color=#FF0027>Resist bad games, reject pirated games.</color>
+88|<color=#FFE200>[System]</color><color=#FF0027>Protect yourself and beware of scams.</color>
+89|<color=#FFE200>[System]</color><color=#FF0027>Moderate gaming is good for the brain; addiction harms the body.</color>
+90|<color=#FFC375>Complete 10 main quests</color>  <color=#FFFFFF>Reward:</color> 100 Yuan
+91|<color=#FFC375>Complete 15 main quests</color>  <color=#FFFFFF>Reward:</color> 100 Yuan
+92|<color=#FF4500>SSR</color><color=#FFE200> Soul</color><color=#FF4500>
+93|<color=#FFC375>Complete 50 main quests</color>  <color=#FFFFFF>Reward:</color> 1000 Yuan
+94|<color=#FFC375>Complete 60 main quests</color>  <color=#FFFFFF>Reward:</color> 3000 Yuan
+95|</color></size> summons guaranteed <color=#FF3B0B><size=25>SSR</size></color> Soul
+96|</color></size> openings guaranteed <color=#FF8600><size=45>Legendary-grade</size></color> item
+97|I have read in detail and agree to the <color=#38E05F>User Agreement</color> and <color=#38E05F>Privacy Policy</color>
+98|(Milk tea can <color=#FFCF00>lift your mood</color>, with a low chance of harming <color=#FFCF00>urinary</color> health)
+99|<color=#E115FF>Normal Soul Growth Potion</color> (<color=#00FFE6>5% chance</color> to increase Soul growth by 0.1)
+100|Game 1: Scratch off the coating, if the <size=35><color=#FFD86E>"¥100"</color></size> symbol appears, you win 100 Yuan.
+101|Game 3: Scratch off the coating, if the <size=35><color=#FFD86E>"¥500"</color></size> symbol appears, you win 500 Yuan.
+102|Game 3: Scratch off the coating, if the <size=35><color=#FFD86E>"¥600"</color></size> symbol appears, you win 600 Yuan.
+103|Game 2: Scratch off the coating, if the <size=35><color=#FFD86E>"¥150"</color></size> symbol appears, you win 150 Yuan.
+104|Game 2: Scratch off the coating, if the <size=35><color=#FFD86E>"¥200"</color></size> symbol appears, you win 200 Yuan.
+105|Game 4: Scratch off the coating, if the <size=35><color=#FFD86E>"¥800"</color></size> symbol appears, you win 800 Yuan.
+106|<color=#FF7910>Advanced Soul Growth Potion</color> (<color=#00FFE6>100% chance</color> to increase Soul growth by 0.2)
+107|Game 4: Scratch off the coating, if the <size=35><color=#FFD86E>"¥1000"</color></size> symbol appears, you win 1000 Yuan.
+108|<color=#FFE200>exclusive privileges</color>. <color=#00FF47><a href=1>I want to become VIP too.</a></color>
+109|Inlaying gems of the <color=#FFE200>same level</color> activates <color=#FFE200>Gem Resonance</color><NL>Effect: gem total combat power doubled
+111|Game 1: Scratch off the coating, if the <size=35>"<color=#FF9D13>　</color>"</size> number appears, you win the amount below that number. Winnings stack.
+112|<color=#FFE200>[System]</color><color=#FF0200>Official notice: Do not trust any scams selling diamonds, giving top-ups, adding WeChat, etc.!</color>
+113|(Note! Failed synthesis <color=#FF3B0B>loses 1</color> gem. Using a <color=#FF3B0B>Gem Hammer</color> raises the success rate and loses no gem)
+114|<size=35>Note:</size> The game supports <size=35>auto-save</size> and <size=35>manual save</size>!<NL><NL>The game saves automatically once every in-game day; this can be turned off in Settings
+115|A cheap casual fishing pond, the owner released <color=#FFE200>1 target fish</color>, catch the <color=#FFE200>target fish</color> in the time limit to obtain <color=#FFE200>
+116|A moderately difficult fishing pond, the owner released <color=#FFE200>1 target fish</color>, catch the <color=#FFE200>target fish</color> in the time limit to obtain <color=#FFE200>
+117|A very difficult fishing pond, the owner released <color=#FFE200>1 target fish</color>, catch the <color=#FFE200>target fish</color> in the time limit to obtain <color=#FFE200>
+118|</color></size> summons guaranteed the <color=#FFE84A>current Up</color><color=#FF3B0B><size=25>SSR</size></color> Soul
+119|<size=45><color=#FFE84A>100</color></size> openings guaranteed <color=#FF8600><size=45>Legendary-grade</size></color> item
+120|A constantly challenging high-difficulty pond, the owner released <color=#FFE200>1 target fish</color>, catch the <color=#FFE200>target fish</color> in the time limit to clear it and obtain <color=#FFE200>
+121|Spend <color=#FFC65A><size=40>any amount</size></color> to get a<NL>great-value gift pack worth <color=#FFC65A><size=45>8888</size></color> Yuan
+122|A cheap casual fishing pond, the owner released <color=#FFE200>1 target fish</color>, catch the <color=#FFE200>target fish</color> in the time limit to obtain <color=#FFE200>10000 Yuan</color> reward.
+124|<size=35><color=#FFE84A>190</color></size> summons guaranteed the <color=#FFE84A>current Up</color><color=#FF3B0B><size=25>SSR</size></color> Soul
+125|Game 3: Scratch off the coating, if any of your numbers matches a winning number, you win the amount shown below that number; if the <size=35>"<color=#FF9D13>666</color>"</size> number appears, you win 6 times the amount shown below. Winnings stack.
+126|Scratch off the coating, if any of your numbers matches one of the winning numbers, you win the amount shown below that number; if the <size=18>"★"</size> symbol appears, you win twice the amount shown below it; if the <size=18>"❤"</size> symbol appears, 5 times the amount shown below it; if the <size=18>"✿"</size> symbol appears, you win the sum of all 30 amounts in the scratch area.
+127|Scratch off the coating, if any of your numbers matches one of the winning numbers, you win the amount shown below that number; if the <size=30>"★"</size> symbol appears, you win twice the amount shown below it; if the <size=30>"❤"</size> symbol appears, 5 times the amount shown below it; if the <size=30>"✿"</size> symbol appears, you win the sum of all 20 amounts in the scratch area.
+128|Clear the Soul Dungeon to obtain material rewards.<NL>Complete Bounty Quests to obtain material rewards.<NL>Selling <color=#AC4CFF>Soul Essence</color> in the Mall yields materials<NL>Dismantling an <color=#FF3B0B>SSR</color> Soul yields 5000 materials<NL>Dismantling an <color=#AC4CFF>SR</color> Soul yields 200 materials<NL>Dismantling an <color=#4CCCFF>R</color> Soul yields 30 materials
+129|Lucky Chest drop rates:<NL><color=#FF4500>Mythic Wings</color>            0.37%<NL><color=#FF8600>Mythic Secret Realm Key  </color>       0.5%<NL><color=#FF8600>Other Mythic Items</color>             1.5%<NL>Others omitted。。。。。。。。。。。<NL><NL>Guaranteed within 100 openings: <color=#FF8600>Mythic-grade item</color>
+130|1. The original equipment's refine level must be above <color=#FFE98D>10</color>; the higher the level, the more gold it costs.<NL>2. Only <color=#FF00FB>Epic</color> and <color=#FF5700>Legendary</color> quality equipment can be refine-transferred, and the original and target equipment <color=#FFE98D>must be of the same quality</color>.<NL>3. The original equipment's refine level must be <color=#FFE98D>at least 2 levels above the target equipment's refine level</color>.<NL>4. After a successful transfer, the original equipment's <color=#FF0013>refine level drops by 1</color> and is transferred to the target equipment, and the original equipment will be <color=#FFE98D>destroyed</color>.<NL>5. If the transfer fails, the equipment is not destroyed, but the gold spent is not refunded.
+134|<color=#E8FF53>Character Event Summon</color> and <color=#E8FF53>Permanent Summon</color> chance for <color=#FF3B0B>SSR Soul</color> is 0.6%<NL><color=#E8FF53>Character Event Summon</color> and <color=#E8FF53>Permanent Summon</color> chance for <color=#AC4CFF>SR Soul</color> is 10%<NL><color=#E8FF53>Character Event Summon</color> and <color=#E8FF53>Permanent Summon</color> chance for <color=#4CCCFF>R Soul</color> is 90.4%<NL><NL><NL><NL><color=#E8FF53>Character Event Summon</color> and <color=#E8FF53>Permanent Summon</color>: one <color=#FF3B0B>SSR Soul</color> guaranteed within 100 summons<NL><color=#E8FF53>Character Event Summon</color>: the current event UP <color=#FF3B0B>SSR Soul</color> guaranteed within 200 summons
+135|Scratch off the coating, if a multiplier symbol "<size=30><color=#FFD86E>1x</color></size>", "<size=30><color=#FFD86E>2x</color></size>", "<size=30><color=#FFD86E>5x</color></size>", "<size=30><color=#FFD86E>10x</color></size>", "<size=30><color=#FFD86E>20x</color></size>", <size=30><color=#FFD86E>50x</color></size>, "<size=30><color=#FFD86E>100x</color></size>", "<size=30><color=#FFD86E>200x</color></size>" appears, you win the prize shown below that symbol multiplied by that multiple; if the win symbol "<size=40><color=#FFD86E>Win</color></size>" appears in the "Match All" area, you win the sum of all 30 prizes in the scratch area. Winnings stack.

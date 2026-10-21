@@ -2,7 +2,7 @@
 
 ## Done
 * Runtime installed (BepInEx 6 pre.2 + XUnity 5.6.3.1), no online translator.
-* ~7,800 pre-translated strings + 24 regex rules; font resizer 0.6 on ~46 UI roots.
+* ~7,860 pre-translated strings + 24 regex rules; font resizer 0.6 on ~46 UI roots.
 * 61 textures replaced (see [TEXTURES.md](TEXTURES.md)).
 * Public repo with install script, texture patch/restore, tools and these docs.
 * Verified in game: title menu, announcement, leaderboard, home screen ("Day 4 Dusk", "Wednesday (Workday)"),
