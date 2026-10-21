@@ -10881,3 +10881,10 @@ r:"^获得充值返利[:：]\s*金币\s*[xX×]\s*([0-9]+)$"=Top-up Rebate Obtain
 r:"^获得充值返利[:：]\s*SR级元神碎片\s*[xX×]\s*([0-9]+)$"=Top-up Rebate Obtained: SR Soul Shard x$1
 r:"^获得充值返利[:：]\s*SSR级元神碎片\s*[xX×]\s*([0-9]+)$"=Top-up Rebate Obtained: SSR Soul Shard x$1
 r:"^获得充值返利[:：]\s*R级元神碎片\s*[xX×]\s*([0-9]+)$"=Top-up Rebate Obtained: R Soul Shard x$1
+已达成结局:错失天命=Ending reached: Missed Destiny
+r:"^大约([0-9]+)分钟$"=About $1 min
+买一张刮刮乐彩票,如果中奖了可以<color\=#00FFAC>愉悦心情</color>=Buy a scratch card; if you win, it can <color\=#00FFAC>lift your mood</color>
+买一张刮刮乐彩票,如果中奖了可以=Buy a scratch card; if you win, it can 
+r:"^您好[:：]您的尾号([0-9]+)的银行账户有一笔([0-9.,]+)元的快捷支付交易$"=Hello: A quick payment of $2 yuan was made on your bank account ending in $1
+r:"^您好[:：]您的尾号([0-9]+)的银行账户于当前汇入个人转账([0-9.,]+)元[,，]注意查收[!！]$"=Hello: A personal transfer of $2 yuan has been deposited into your bank account ending in $1. Please check.
+r:"^余额[:：][￥¥]([0-9.,]+)$"=Balance: ¥$1
